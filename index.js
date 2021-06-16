@@ -16,3 +16,15 @@
   function closeNav () {
       document.getElementById("sidenav").style.width="0";
   }
+
+  // LOADER
+    
+  var myVar;
+  function myFunction() {
+     myVar = setTimeout(showPage, 3000);
+  }
+   
+  function showPage() {
+     document.getElementById("load").style.display = "none";
+     document.getElementById("mainBod").style.display = "block";
+  } 
