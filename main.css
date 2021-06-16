@@ -223,7 +223,7 @@ body{
 }
 
 .abt img{
-    width: 70%;
+    width: 90%;
     height: 110%;
     padding-top: 2%;
 }
@@ -325,6 +325,24 @@ p {
 	color:var(--color-six);
 	padding-top:5%;
 	text-align:center;
+}
+
+/*TEAM*/
+.team{
+	background-color: var(--color-one);
+	padding-top: 5%;
+	padding-bottom: 3%;
+}
+
+.team h1{
+	font-size: 80px;
+	color: var(--color-three);
+	font-family: 'Poiret One', cursive;
+}
+
+.team img{
+	width: 80%;
+	height: 70%;
 }
 
 /*ANIMATIONS*/
