@@ -394,8 +394,28 @@ p {
 }
 
 .team img{
-	width: 105%;
+	width: 90%;
 	height: 100%;
+}
+
+/*POSTERS*/
+.posters{
+	background-color: var(--color-four);
+	padding-top: 5%;
+	padding-bottom: 3%;
+}
+
+.posters h1{
+	font-size: 80px;
+    color: var(--color-six);
+    font-family:'Poiret One', cursive;
+    padding-bottom: 3%;
+}
+
+.posters img{
+	width: 80%;
+	height: 500px;
+	border: #222 solid 2px;
 }
 
 /*CONTACT*/
