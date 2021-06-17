@@ -396,6 +396,11 @@ p {
 .team img{
 	width: 90%;
 	height: 100%;
+	transition: 0.4s;
+}
+
+.team img:hover{
+	transform: scaleX(1.06) scaleY(1.06) scaleZ(1);
 }
 
 /*POSTERS*/
@@ -416,6 +421,11 @@ p {
 	width: 80%;
 	height: 500px;
 	border: #222 solid 2px;
+	transition: 0.4s;
+}
+
+.posters img:hover{
+	transform: scaleX(1.06) scaleY(1.06) scaleZ(1);
 }
 
 /*CONTACT*/
