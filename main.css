@@ -420,6 +420,8 @@ p {
 .posters img{
 	width: 80%;
 	height: 500px;
+	padding: 30px;
+	margin: 10px;
 	border: #222 solid 2px;
 	transition: 0.4s;
 }
@@ -489,6 +491,15 @@ p {
     padding-top: 1%;
 	text-decoration:none !important;
 }
+
+.footer .special{
+	color: var(--color-four);
+}
+
+.footer .special:hover{
+	color: var(--color-six);
+}
+
 /*ANIMATIONS*/
 @-webkit-keyframes loading {
 
