@@ -420,8 +420,7 @@ p {
 .posters img{
 	width: 80%;
 	height: 500px;
-	padding: 30px;
-	margin: 10px;
+	margin: 25px;
 	border: #222 solid 2px;
 	transition: 0.4s;
 }
