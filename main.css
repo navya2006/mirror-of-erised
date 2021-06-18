@@ -402,6 +402,8 @@ p {
 	width: 90%;
 	height: 100%;
 	transition: 0.4s;
+	padding: 10px;
+	border: #e39349 solid 2px;
 }
 
 .team img:hover{
