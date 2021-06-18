@@ -37,6 +37,7 @@ a:hover{
 	display: none;
 }
 
+
 /*LOADER*/
 .loader {
     position: absolute;
@@ -237,6 +238,10 @@ a:hover{
     padding-bottom: 15%;
 	background-color:rgba(0,0,0,0.5);
 	overflow-x:hidden;
+}
+
+.home::scrollbar{
+	display: none;
 }
 
 .home::before {
