@@ -399,11 +399,11 @@ p {
 }
 
 .team img{
-	width: 90%;
-	height: 100%;
+	width: 80%;
+	height: 500px;
+	margin: 25px;
+	border: #222 solid 2px;
 	transition: 0.4s;
-	padding: 10px;
-	border: #e39349 solid 2px;
 }
 
 .team img:hover{
